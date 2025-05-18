@@ -1,104 +1,54 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
 
-Skip to content
-Navigation Menu
+<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-    Pricing
 
-Sign in
-Sign up
-joshmadakorcc /
-ticket-lifecycle
-Public
+<h2>Video Demonstration</h2>
 
-Code
-Issues
-Pull requests 2
-Actions
-Projects
-Security
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
-    Insights
+<h2>Environments and Technologies Used</h2>
 
-joshmadakorcc/ticket-lifecycle
-Name	Last commit message
-	Last commit date
-joshmadakorcc
-joshmadakorcc
-Update README.md
-7ea2e2d
- · 
-Aug 11, 2022
-README.md
-	
-Update README.md
-	
-Aug 11, 2022
-Repository files navigation
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Internet Information Services (IIS)
 
-    README
+<h2>Operating Systems Used </h2>
 
-osTicket logo
-osTicket - Ticket Lifecycle: Intake Through Resolution
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.
-Video Demonstration
+- Windows 10</b> (21H2)
 
-    YouTube: How to create, work, and resolves tickets within osTicket
+<h2>Ticket Lifecycle Stages</h2>
 
-Environments and Technologies Used
+- Intake
+- Assignment and Communication
+- Working the Issue
+- Resolution
 
-    Microsoft Azure (Virtual Machines/Compute)
-    Remote Desktop
-    Internet Information Services (IIS)
+<h2>Lifecycle Stages</h2>
 
-Operating Systems Used
-
-    Windows 10 (21H2)
-
-Ticket Lifecycle Stages
-
-    Intake
-    Assignment and Communication
-    Working the Issue
-    Resolution
-
-Lifecycle Stages
-
-Disk Sanitization Steps
-
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
 
-Disk Sanitization Steps
-
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
 
-Disk Sanitization Steps
-
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-About
-No description, website, or topics provided.
-Resources
-Readme
-Activity
-Stars
-1 star
-Watchers
-1 watching
-Forks
-69 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact
-
+</p>
+<br />
